@@ -99,6 +99,7 @@
 
 //#include <opencv2/opencv.hpp>
 #include <range/v3/all.hpp>
+#include <gtest/gtest.h>
 
 namespace fs = std::filesystem;
 using namespace std::chrono_literals;
